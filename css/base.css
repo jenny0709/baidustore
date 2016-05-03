@@ -1,0 +1,17 @@
+body,ul,li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+*{
+	font-family: "Microsoft YaHei","\u5fae\u8f6f\u96c5\u9ed1",STXihei,"\u534e\u6587\u7ec6\u9ed1",STHeiti,"Times New Roman",SimSun,Arial;
+	font-size: 14px;
+	color: #333;
+}
+a{
+	text-decoration: none;
+	color: #555;
+}
+img{
+	border: 0;
+}
